@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "rnn"
+version = "0.1.0"
+description = ""
+authors = ["barisu <ishiim1227@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+tensorflow = "^2.18.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
